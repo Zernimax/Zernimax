@@ -122,12 +122,7 @@ footer p {
     color: #ffffff;
 }
 
-#miCanvas {
-    visibility: hidden;
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
-}
+
 
 meter {
     background-color: #ffffff;

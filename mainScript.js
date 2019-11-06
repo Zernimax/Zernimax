@@ -1,4 +1,4 @@
-$(document).on("ready", configApp);
+/*$(document).on("ready", configApp);
 
 function configApp()
 {
@@ -17,4 +17,4 @@ function drawFooter(canvas, ctx){
     ctx.fill();
 
     //quadraticCurveTo(cpx, cpy, x, y)
-}
+}*/
