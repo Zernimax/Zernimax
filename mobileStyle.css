@@ -53,16 +53,14 @@
         
     }
     
-    
-    
     nav ul {
+        font-size: 60%;
         background-color: #1d1d1d;
     }
     
     nav ul li 
     {
         display: inline-block;
-        margin-right: 2%;
         color: #1d1d1d;
     }
     
@@ -85,7 +83,7 @@
     
     a
     {
-        color: #e44e2d;
+        color: #fabeba;
         font-weight: bold;
     }
     
