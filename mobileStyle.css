@@ -18,11 +18,11 @@
     
     header {
         position: absolute;
-        background-image: url("imgs/headerWeb.png");
-        background-color: #cccccc;
+        /*background-image: url("imgs/headerWeb.png");
+        background-color: #cccccc;*/
         text-align: center;
     
-        /*background-color: #AA2323;*/
+        background-color: #AA2323;
         width: 100%;
         
     }
